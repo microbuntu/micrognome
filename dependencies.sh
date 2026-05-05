@@ -10,5 +10,5 @@ cd wld
 make
 sudo make install
 cd ../swc
-PKG_CONFIG_PATH=/usr/local/lib/pkgconfig make
-sudo PKG_CONFIG_PATH=/usr/local/lib/pkgconfig make install
+make
+sudo make install
